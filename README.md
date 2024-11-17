@@ -26,10 +26,10 @@ I am an aspiring data scientist passionate about solving real-world problems wit
    - **Description**: A predictive model to assess flood risks in KwaZulu-Natal, aimed at improving disaster preparedness for vulnerable communities.  
    - **Skills Demonstrated**: Data cleaning, exploratory data analysis, and machine learning.  
    - **Technologies**: Python, Pandas, Matplotlib, Scikit-learn.  
-   - [Notebook Link](#)  
+      
 
 ### 2. **Stock Market Analysis** (In Progress)  
-   - **Description**: Developing a project to analyze stock market trends and build predictive models for forecasting stock prices.  
+   - **Description**: Developing a project to analyze stock market trends for 35 JSE companies and stock prices.  
    - **Skills Demonstrated**: Exploratory data analysis, feature engineering, and predictive modeling.  
    - **Technologies**: Python, Pandas, Matplotlib, Scikit-learn.  
    - Notebook link to be added upon completion.  
