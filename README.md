@@ -50,7 +50,8 @@ I am an aspiring data scientist passionate about solving real-world problems wit
 If you have any questions or would like to collaborate, feel free to reach out:
 
 **Email**: sekwanelenjoko48@gmail.com
-**LinkedIn**: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B89BEIeL9QhmTuk3FfgU2dA%3D%3D
+**LinkedIn**: www.linkedin.com/in/sekwanele-njoko-1499bb246
+
 
 
 <!---
